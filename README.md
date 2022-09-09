@@ -1,6 +1,6 @@
 ## Global Air Pollution Index
 
-In this project I have built <Global-Air-Pollution-Index>. by using the Latitude and the Longtude of any location in the worl we can see the severity of Air pollution. On the homepage I have included the top 10 countries where the Air Pollution is high.(You can check the ranking [here](https://worldpopulationreview.com/country-rankings/most-polluted-countries))
+In this project I have built Global Air Pollution Index. by using the Latitude and the Longtude of any location in the worl we can see the severity of Air pollution. On the homepage I have included the top 10 countries where the Air Pollution is high.(You can check the ranking [here](https://worldpopulationreview.com/country-rankings/most-polluted-countries))
 
 
 ## Built With
@@ -16,7 +16,7 @@ In this project I have built <Global-Air-Pollution-Index>. by using the Latitude
 
 ## Getting Started
 
-To use this project you need to clone the repository to your local machine, and open the folder then run <npm-start> in the command line. To use npm start make sure react is installed in your system.
+To use this project you need to clone the repository to your local machine, and open the folder then run npm start in the command line. To use npm start make sure react is installed in your system.
 
 To get a local copy up and running follow these simple example steps.
 
@@ -52,10 +52,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- This project is part of week 2 of module 3 in the Microverse study program.
-- Thanks to the Microverse team for the great curriculum 🙌.
-- Thanks to Code Reviewers for the insightful feedback ⚡.
-- A great thanks to My coding partners, morning session team, and standup team Partners for their contributions 💘.
+Web design credit goes to  Nelson Sakwa on Behance: [Check the design here](https://www.behance.net/gallery/31579789/Ballhead-App-%28Free-PSDs%29)
 
 ## 📝 License
 
