@@ -2,7 +2,7 @@ import renderer from 'react-test-renderer';
 import { Provider } from 'react-redux';
 import configureStore from 'redux-mock-store';
 import Form from '../__mock__/Form';
-import TopBar from '../TopBar';
+import TopBar from '../Header';
 
 describe('Components snapshot tests', () => {
   const mockStore = configureStore();

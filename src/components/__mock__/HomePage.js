@@ -1,6 +1,6 @@
 import React from 'react';
 import Form from './Form';
-import CurrentPollutionData from '../CurrentPollutionData';
+import CurrentPollutionData from '../PollutionData';
 
 const HomePage = () => (
   <div>

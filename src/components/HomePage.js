@@ -1,13 +1,13 @@
 import React from 'react';
 import Form from './Form';
-import CurrentPollutionData from './CurrentPollutionData';
+import PollutionData from './PollutionData';
 
 const HomePage = () => (
   <div>
     <div>
       <Form />
       <div>
-        <CurrentPollutionData />
+        <PollutionData />
       </div>
     </div>
   </div>

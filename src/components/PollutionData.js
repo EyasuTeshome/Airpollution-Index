@@ -3,7 +3,7 @@ import './allCss.modules.css';
 import { useNavigate } from 'react-router-dom';
 import detailIcon from '../images/detailIcon.png';
 
-const CurrentPollutionData = () => {
+const PollutionData = () => {
   const navigate = useNavigate();
 
   return (
@@ -221,4 +221,4 @@ const CurrentPollutionData = () => {
   );
 };
 
-export default CurrentPollutionData;
+export default PollutionData;
