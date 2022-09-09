@@ -1,0 +1,82 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Components snapshot tests Form page renders correctly 1`] = `
+<div
+  className="form-container"
+>
+  <div
+    className="image"
+  >
+    <img
+      alt=""
+      className=""
+      src="world.png"
+    />
+  </div>
+  <div
+    className="text-center py-4"
+  >
+    <form
+      onSubmit={[Function]}
+    >
+      <label
+        htmlFor="latitude"
+      >
+        <p
+          className="text"
+        >
+          Latitude
+        </p>
+        <input
+          className=""
+          id="latitude"
+          name="lat"
+          onChange={[Function]}
+          placeholder="Enter a Latitude..."
+          required={true}
+          type="number"
+        />
+        <br />
+      </label>
+      <label
+        htmlFor="longitude"
+      >
+        <p
+          className="text"
+        >
+          Longitude
+        </p>
+        <input
+          className=""
+          id="longitude"
+          name="long"
+          onChange={[Function]}
+          placeholder="Enter a Longitude..."
+          required={true}
+          type="number"
+        />
+        <br />
+      </label>
+      <input
+        className="search-btn"
+        type="submit"
+        value="Search"
+      />
+    </form>
+  </div>
+</div>
+`;
+
+exports[`Components snapshot tests TopBar renders correctly 1`] = `
+<nav
+  className=""
+>
+  <div
+    className="header-h1"
+  >
+    <h1>
+      Global Air Pollution Index
+    </h1>
+  </div>
+</nav>
+`;

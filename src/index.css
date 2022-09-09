@@ -1,0 +1,9 @@
+/* stylelint-disable */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+/* stylelint-enable */
+
+iframe {
+  display: none;
+}
