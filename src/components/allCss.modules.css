@@ -1,0 +1,94 @@
+body {
+  background-color: #fb5092;
+  margin: 0;
+}
+
+nav {
+  background-color: #ce4177;
+  padding-bottom: 1rem;
+  text-align: center;
+  box-shadow: 2px 2px 5px black;
+  margin-bottom: 1rem;
+  font-size: 2rem;
+  color: white;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-weight: bold;
+}
+
+.image {
+  width: 50%;
+}
+
+.header-h1 {
+  margin-left: 2rem;
+}
+
+.form-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.text {
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 1.5rem;
+  font-weight: bolder;
+  margin-bottom: 0;
+}
+
+input {
+  border-radius: 5px;
+  border: none;
+  height: 3rem;
+  margin-bottom: 10px;
+}
+
+.country {
+  background-color: #ce4177;
+  padding: 1rem;
+}
+
+.country1 {
+  margin-right: 0.5rem;
+  padding: 0.5rem;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+}
+
+.search-btn {
+  background-color: #ce4177;
+  margin-top: 0;
+  box-shadow: 2px 2px 5px black;
+  color: white;
+  font-weight: bold;
+  font-size: 1.3rem;
+}
+
+.back-btn {
+  position: fixed;
+  top: 10px;
+  width: 2rem;
+}
+
+.h2-top {
+  text-align: center;
+  font-size: 1.5rem;
+  padding-bottom: 1rem;
+  background-color: #b13968;
+}
+
+footer {
+  background-color: #b13968;
+  padding: 1rem;
+  color: white;
+  text-align: center;
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: bold;
+}
+
+a {
+  color: yellow;
+}
