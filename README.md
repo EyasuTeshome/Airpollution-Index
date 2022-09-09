@@ -12,7 +12,7 @@ In this project I have built <Global-Air-Pollution-Index>. by using the Latitude
   
 ## Live Demo
 
-Not available yet
+[Live Demo](https://631b5bf9ac6b01187d804c8c--stalwart-hotteok-4f8c89.netlify.app/)
 
 ## Getting Started
 
